@@ -1,0 +1,55 @@
+No downside detect running
+=======================>Start detect mode<===========================
+Downside detect mode running with PID: 817
+Kill all Downside-detect process
+/home/pi/Desktop/FaBo9AXIS-MPU9250-Python/example/check_detect_mode_backup.sh: line 16:   817 Killed                  /home/pi/Desktop/FaBo9AXIS-MPU9250-Python/example/ena_drownside_detec.sh
+
+(' Real Accel is : ', 1.0202073312322355)
+(' Real Velocity is : ', 5.1010366561611775)
+================Object is moving ==============
+================Detect mode: 1
+===================Triggered drownside detect========
+
+(' Real Accel is : ', 0.17793134237677163)
+(' Real Velocity is : ', 0.8896567118838582)
+================stop_count: 1
+
+(' Real Accel is : ', 0.08405255677253395)
+(' Real Velocity is : ', 0.4202627838626698)
+================stop_count: 2
+
+(' Real Accel is : ', 0.02222207911065034)
+(' Real Velocity is : ', 0.1111103955532517)
+================stop_count: 3
+
+(' Real Accel is : ', 0.021402170450681414)
+(' Real Velocity is : ', 0.10701085225340706)
+================stop_count: 4
+
+(' Real Accel is : ', 0.01116040769864616)
+(' Real Velocity is : ', 0.0558020384932308)
+================stop_count: 5
+
+(' Real Accel is : ', 0.00814902448149471)
+(' Real Velocity is : ', 0.04074512240747355)
+================stop_count: 6
+
+(' Real Accel is : ', 0.08204222937000144)
+(' Real Velocity is : ', 0.4102111468500072)
+================stop_count: 7
+
+(' Real Accel is : ', 0.09836921063015598)
+(' Real Velocity is : ', 0.4918460531507799)
+================stop_count: 8
+
+(' Real Accel is : ', 0.034292827238360184)
+(' Real Velocity is : ', 0.17146413619180093)
+================stop_count: 9
+================Object is stopping ==============
+===================Disable drownside detect========
+
+(' Real Accel is : ', 0.013972648281553732)
+(' Real Velocity is : ', 0.06986324140776866)
+
+(' Real Accel is : ', 0.053453301114150434)
+(' Real Velocity is : ', 0.26726650557075216)
